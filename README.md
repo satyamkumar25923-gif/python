@@ -8,3 +8,4 @@ day 10 (29/09/26)
 Today I leared about the function and output , and build a calculator us can see it on the pracctice folder 
 day11(30/09/26)
 today i built a game - THE BLACK JAKE using my python concepts , u can check it on my python repo 
+day12
